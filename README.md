@@ -18,3 +18,26 @@ Agora é a sua vez de ser o Protagonista! 🤩
 
 Bons estudos! 😉
 
+===============================
+
+SQL
+- os dados seguem uma estrutura (esquema), modelagem relacional;
+- utilizados normalmente em sistemas OLTP/OLAP;
+- modelo ACID;
+
+
+noSQL
+- os dados gravador no modelo chave-valor;
+- vários formatos de dados;
+- feitos para serem escalados;
+- alto desempenho;
+- suportam grandes volumes de dados;
+
+Engenheiro de dados (preparar os dados para os Cientistas/Analistas de dados)
+- Conhecer os dados da empresa para realizar a ingestão de dados em datamart/datalake;
+- Conhecer as necessidades de dados para o planejamento/controle da empresa;
+- Arquitetar os ETL/ELT , realizar o saneamento dos dados;
+- Disponibilizar os dados para serem utilizados pelos usuários (Power BI/Tableau/ outros)
+
+
+
